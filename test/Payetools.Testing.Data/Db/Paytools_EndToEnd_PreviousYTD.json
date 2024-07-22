@@ -1,0 +1,24 @@
+[
+  {
+    "DefinitionVersion": "1.0",
+    "TestIdentifier": "1679065354/Previous-YTD/1",
+    "TaxYearEnding": "Apr5_2023",
+    "TestReference": "Pay1",
+    "StatutoryMaternityPayYtd": 0,
+    "StatutoryPaternityPayYtd": 0,
+    "StatutoryAdoptionPayYtd": 0,
+    "SharedParentalPayYtd": 0,
+    "StatutoryParentalBereavementPayYtd": 0,
+    "GrossPayYtd": 0,
+    "TaxablePayYtd": 0,
+    "NicablePayYtd": 0,
+    "TaxPaidYtd": 0,
+    "StudentLoanRepaymentsYtd": 0,
+    "GraduateLoanRepaymentsYtd": 0,
+    "PayrolledBenefitsYtd": 0,
+    "TaxUnpaidDueToRegulatoryLimit": 0,
+    "EmployerPensionContributionsYtd": 0,
+    "EmployeePensionContributionsUnderNpaYtd": 0,
+    "EmployeePensionContributionsUnderRasYtd": 0
+  }
+]

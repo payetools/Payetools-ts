@@ -1,0 +1,26 @@
+[
+  {
+    "DefinitionVersion": "1.0",
+    "TestIdentifier": "1678981483/Pension-Schemes/1",
+    "TaxYearEnding": "Apr5_2023",
+    "SchemeName": "Peoples Pension",
+    "EarningsBasis": "QualifyingEarnings",
+    "TaxTreatment": "ReliefAtSource"
+  },
+  {
+    "DefinitionVersion": "1.0",
+    "TestIdentifier": "1678981483/Pension-Schemes/2",
+    "TaxYearEnding": "Apr5_2023",
+    "SchemeName": "Smart Pension",
+    "EarningsBasis": "QualifyingEarnings",
+    "TaxTreatment": "NetPayArrangement"
+  },
+  {
+    "DefinitionVersion": "1.0",
+    "TestIdentifier": "1678981483/Pension-Schemes/3",
+    "TaxYearEnding": "Apr5_2023",
+    "SchemeName": "Scottish Widows",
+    "EarningsBasis": "PensionablePaySet1",
+    "TaxTreatment": "ReliefAtSource"
+  }
+]

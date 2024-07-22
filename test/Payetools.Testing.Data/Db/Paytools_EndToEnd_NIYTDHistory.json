@@ -1,0 +1,20 @@
+[
+  {
+    "DefinitionVersion": "1.0",
+    "TestIdentifier": "1679065354/NI-YTD-History/1",
+    "TaxYearEnding": "Apr5_2023",
+    "TestReference": "Pay1",
+    "NiCategoryPertaining": "A",
+    "GrossNicableEarnings": 4371.8,
+    "EmployeeContribution": 451.93,
+    "EmployerContribution": 543.87,
+    "TotalContribution": 995.8,
+    "EarningsUpToAndIncludingLEL": 533,
+    "EarningsAboveLELUpToAndIncludingST": 0,
+    "EarningsAboveSTUpToAndIncludingPT": 0,
+    "EarningsAbovePTUpToAndIncludingFUST": 0,
+    "EarningsAboveFUSTUpToAndIncludingUEL": 0,
+    "EarningsAboveUEL": 0,
+    "EarningsAboveSTUpToAndIncludingUEL": 0
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DefinitionVersion": "1.0",
+    "TestIdentifier": "1679065354/Deductions/1",
+    "TaxYearEnding": "Apr5_2023",
+    "ShortName": "LOAN",
+    "Description": "Post-tax loan repayment",
+    "ReducesGrossPay": false,
+    "ReducesTaxablePay": false,
+    "ReducesNicablePay": false,
+    "ReducesPensionablePay": false,
+    "IsUnderSalaryExchangeArrangement": false
+  }
+]

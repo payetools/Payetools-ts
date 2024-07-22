@@ -1,0 +1,32 @@
+[
+  {
+    "DefinitionVersion": "1.0",
+    "TestIdentifier": "1679065354/Static-Input/1",
+    "TaxYearEnding": "Apr5_2023",
+    "TestReference": "Pay1",
+    "EmployeeFirstName": "Bertie",
+    "EmployeeLastName": "Buttons",
+    "TaxCode": {
+      "TaxYear": {
+        "TaxYearEnding": "Apr5_2025",
+        "StartOfTaxYear": "2024-04-06",
+        "EndOfTaxYear": "2025-04-05"
+      },
+      "IsNonCumulative": false,
+      "TaxTreatment": "L",
+      "ApplicableCountries": "GB-ENG GB-NIR",
+      "NotionalAllowance": 12070,
+      "NumericPortionOfCode": 1207,
+      "IsFixedCode": false,
+      "TaxRegimeLetter": ""
+    },
+    "NiCategory": "A",
+    "StudentLoanPlan": "Plan1",
+    "GraduateLoan": false,
+    "PensionScheme": "Peoples Pension",
+    "UsesSalaryExchange": false,
+    "EmployeePercentage": 5,
+    "EmployeeFixedAmount": null,
+    "EmployerPercentage": 3
+  }
+]

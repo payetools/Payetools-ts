@@ -1,0 +1,41 @@
+[
+  {
+    "DefinitionVersion": "1.0",
+    "TestIdentifier": "1679065354/Period-Input/1",
+    "TaxYearEnding": "Apr5_2023",
+    "TestReference": "Pay1",
+    "EntryType": "Earnings",
+    "ShortName": "ANNUAL_SALARY",
+    "Description": "Salary",
+    "Qty": null,
+    "Rate": null,
+    "FixedAmount": 4371.8,
+    "FinalAmount": 4371.8
+  },
+  {
+    "DefinitionVersion": "1.0",
+    "TestIdentifier": "1679065354/Period-Input/2",
+    "TaxYearEnding": "Apr5_2023",
+    "TestReference": "Pay1",
+    "EntryType": "Deduction",
+    "ShortName": "LOAN",
+    "Description": "Loan Repayment",
+    "Qty": null,
+    "Rate": null,
+    "FixedAmount": 25,
+    "FinalAmount": 25
+  },
+  {
+    "DefinitionVersion": "1.0",
+    "TestIdentifier": "1679065354/Period-Input/3",
+    "TaxYearEnding": "Apr5_2023",
+    "TestReference": "Pay2",
+    "EntryType": "PayrolledBenefit",
+    "ShortName": "BENEFIT",
+    "Description": "Private Medical Insurance",
+    "Qty": null,
+    "Rate": null,
+    "FixedAmount": 105.22,
+    "FinalAmount": 105.22
+  }
+]

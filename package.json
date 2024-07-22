@@ -1,0 +1,31 @@
+{
+  "name": "@payetools/payetools-ts",
+  "version": "1.0.143",
+  "type": "module",
+  "scripts": {
+    "build": "tsc --noEmit",
+    "test": "vitest",
+    "prettier": "prettier . --check",
+    "prettier:fix": "prettier . --write"
+  },
+  "exports": {
+    "./*": [
+      "./src/*/index.ts",
+      "./src/*.ts"
+    ]
+  },
+  "dependencies": {
+    "@dintero/money": "^1.0.11",
+    "calendar-date": "^2.6.0",
+    "json2typescript": "^1.5.1",
+    "winston": "^3.13.0"
+  },
+  "devDependencies": {
+    "@tsconfig/node20": "^20.1.4",
+    "@types/big.js": "^6.2.2",
+    "@vitest/coverage-v8": "^1.6.0",
+    "prettier": "^3.3.2",
+    "typescript": "^5.5.3",
+    "vitest": "^1.6.0"
+  }
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "DefinitionVersion": "1.0",
+    "TestIdentifier": "1679065354/Earnings/1",
+    "TaxYearEnding": "Apr5_2023",
+    "ShortName": "ANNUAL_SALARY",
+    "Description": "Salary paid each pay perod",
+    "IsSubjectToTax": true,
+    "IsSubjectToNi": true,
+    "IsPensionable": true,
+    "IsNetToGross": false,
+    "IsTreatedAsOvertime": false
+  }
+]
