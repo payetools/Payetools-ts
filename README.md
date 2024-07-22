@@ -1,8 +1,14 @@
-Ported from https://github.com/payetools/Payetools v1.0.143 (commit 676fc12e5deb29a47bdcac0cc2f1f242923f2ec0)
-
-```sh
-nvm use
-npm i
-npm test
-```
 # Payetools-ts
+## Open-Source TypeScript Library for UK payroll
+
+**Payetools is the first library of its kind to bring open-source capabilities to UK payroll processing via a robust framework written in JavaScript.**
+
+Payetools contains support for calculating the following:
+
+- UK Income Tax (all jurisdictions)
+- National Insurance
+- Student Loans
+- Pensions using Qualifying Earnings and Pensionable Pay earnings bases (under both Relief at Source and Net Pay Arrangement tax treatments)
+- Compliance with National Minimum/Living Wage regulations
+
+(For the C#/.NET equivalent set of libraries, see [https://github.com/payetools/Payetools](https://github.com/payetools/Payetools).)
